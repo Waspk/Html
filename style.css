@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(186, 213, 229);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h2{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-left: 30px;
+    
+}
+
+
+ ul{
+    color: rgb(33, 48, 48);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+ }
+
+ li{
+    color: rgb(116, 87, 48);
+    margin-left: 30px;
+
+ }
+
+ .flex-container{
+    display: flex;
+ }
+
+ .left{
+    border: 1xp;
+    border-style: solid;
+    border-color: blueviolet;
+    height: 400px;
+    width: 50%;
+    margin-right: 10px;
+    background-color: azure;
+    border-radius: 10px;
+    /* border-radius: 10px; */
+
+ }
+ .right{
+    border: 1xp;
+    border-style: solid;
+    border-color: blueviolet;
+    height: 400px;
+    width: 50%;
+    margin: 0px;
+    background-color: rgb(60, 179, 179);
+    border-radius: 10px;
+   
+    /* border-radius: 10px; */
+
+ }
+
+
+ 
